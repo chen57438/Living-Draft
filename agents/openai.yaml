@@ -1,5 +1,4 @@
 interface:
-  display_name: "Human Journal"
-  short_description: "Turn rough journal notes into human prose"
-  default_prompt: "Use $human-journal to rewrite my raw journal entry into warm, honest prose."
-
+  display_name: "Living Draft"
+  short_description: "Edit personal essays without AI polish"
+  default_prompt: "Use $living-draft to edit this draft while preserving what sounds like me."
