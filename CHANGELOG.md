@@ -1,8 +1,13 @@
 # Changelog
 
-## 0.1.0
+## v0.2
 
-- Initial Codex skill structure.
-- Added principles, editor workflow, anti-patterns, cases, and reusable prompts.
-- Added `SKILL.md` and `agents/openai.yaml` for Codex compatibility.
+- Renamed the system direction from Human Journal to Living Draft.
+- Reframed the project as an editing operating system, not a prompt library.
+- Added `CONSTITUTION.md`, `EDITOR.md`, and a compact `CASES/` structure.
+- Removed the earlier broad folder split in favor of a smaller first version.
 
+## v0.1
+
+- Initial Codex-compatible writing skill.
+- Added principles, editor workflow, anti-patterns, sample cases, and prompts.
