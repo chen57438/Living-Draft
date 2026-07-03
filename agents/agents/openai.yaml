@@ -1,5 +1,0 @@
-interface:
-  display_name: "Human Journal"
-  short_description: "Turn rough journal notes into human prose"
-  default_prompt: "Use $human-journal to rewrite my raw journal entry into warm, honest prose."
-
